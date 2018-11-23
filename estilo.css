@@ -1,0 +1,79 @@
+
+ul#menu1 {
+    padding: 0;
+}
+
+ul#menu1 li {
+    display: inline;
+}
+
+ul#menu1 li a {
+    background-color:rgb(145, 171, 245);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a {
+    background-color:orange;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color:black;
+}
+ul#menu1 li a:hover {
+    background-color:rgb(40, 198, 219);
+}
+ul#menu li {
+    display: inline;
+}
+#headerhome {
+    background-color: grey;
+    text-align: center;
+}
+#nav1 {
+    background-color: white;
+    height: 2cm;
+}
+#td1 {
+    width: 90%;
+}
+#table1 {
+    text-align: center;
+    color: rgb(3, 3, 209);
+}
+#article1 {
+    text-align: center;
+}
+#imgportada {
+    width: 70%;
+    height: 70%;
+}
+#footer1 {
+    background-color: grey;
+    text-align: center;
+}
+#pfooter {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
+#td2 {
+    width: 90%;
+    font-size: 150%;
+
+}
+#table2 {
+    text-align: center;
+    color: rgb(3, 3, 209);
+}
+#table3 {
+    text-align: center;
+    color: rgb(3, 3, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid rgb(170, 161, 161);
+}
